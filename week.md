@@ -6,3 +6,4 @@
 - A defense-in-depth security strategy was successfully implemented.
 - The system now enforces strong access controls, minimal service exposure, and effective network filtering.
 
+![sangit](nmap.png)
